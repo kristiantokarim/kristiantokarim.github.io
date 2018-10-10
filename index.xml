@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristianto Karim</title>
+    <link>https://kristiantokarim.github.io/</link>
+    <description>Recent content on Kristianto Karim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://kristiantokarim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Kris</title>
+      <link>https://kristiantokarim.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristiantokarim.github.io/about/</guid>
+      <description>His name is Kristianto Karim. He started this page with intention to learn about writing, improve his english, and communicate better. He currently is one of backend software engineer at Traveloka Indonesia. He hate talking about himself in third person.
+He loves programming and playing games. Now he is trying to love reading and writing.
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kristiantokarim.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristiantokarim.github.io/contact/</guid>
+      <description>Want Contact? Have questions or anything to tell Kris ? Feel free to open an issue on GitHub or email him.</description>
+    </item>
+    
+  </channel>
+</rss>
