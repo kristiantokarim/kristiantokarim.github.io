@@ -1,0 +1,47 @@
+title = "Kristianto Karim"
+theme = "not-much"
+languageCode = "en-us"
+baseURL = "https://kristiantokarim.github.io/"
+copyright = "© 2025 Kristianto Karim"
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+theme = "auto"
+palette = "eink"
+showThemeNotice = false
+showPostsSummary = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "writing"
+    name = "writing"
+    title = "Writing"
+    url = "/posts"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "github"
+    name = "github"
+    title = "GitHub"
+    url = "https://github.com/kristiantokarim"
+    weight = 5
